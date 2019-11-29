@@ -6,7 +6,7 @@ The words are taken from a 'Top 1000 most commonly used Portuguese words' list a
 
 ## Instructions
 
-1. Install all the necessary libraries in the Arduino IDE (refer to the TTGO page here https://github.com/Xinyuan-LilyGO/TTGO-T-Display
+1. Install all the necessary libraries in the Arduino IDE. Refer to the TTGO page here https://github.com/Xinyuan-LilyGO/TTGO-T-Display
 2. Clone the two files from this repository. I recommend using the included Myfont.h file as it has all the necessary symbols that are generally absent in regular font files!
 3. Create an account on https://openweathermap.org/. It's free. You will need the following: your API key and your city ID. 
 4. In the .ino file make the following changes: 
