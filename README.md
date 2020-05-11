@@ -1,5 +1,5 @@
 # WeatherPortuguese
-Display current temperature and learn some Portuguese with TTGO T-Display 
+Display current temperature and learn some Portuguese with TTGO T-Display ESP32 Arduino clone
 
 You can put up a TTGO T-Display board like this https://www.aliexpress.com/item/33048962331.html?spm=a2g0o.productlist.0.0.74cf6bd8AiJBxu in the hall so every time you leave you can see the weather (current temperature) and learn a new Portuguese word. 
 The words are taken from a 'Top 1000 most commonly used Portuguese words' list and are shown randomly with English translations. 
